@@ -1,2 +1,2 @@
 # SnakeGamePython
-Start snakegame.py file
+Start snakeGame.py file
